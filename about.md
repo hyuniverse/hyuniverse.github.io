@@ -1,5 +1,5 @@
 ---
-title: 안녕하세요, Hyun입니다
+title: Sehyun's Dev. Blog
 permalink: /about/
 layout: page
 ---
